@@ -4,5 +4,5 @@ sudo apt update
 sudo apt upgrade
 sudo apt install --assume-yes snap
 sudo snap install ngrok
-wget -qO- https://sitejs.org/install | bash
-site enable --owncast
+sudo apt-get -y install libgdk3.0-cil
+wget https://download2.tixati.com/download/tixati_3.19-1_amd64.deb #tixati
